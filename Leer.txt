@@ -1,0 +1,5 @@
+El examen lo realize unicamente con PHP y sin nada de CSS o boostrap ya que unicamente
+me enfoque en mostrar un poco de mi conocimiento en PHP.
+Utilize como base un ejercicio aprendido en un curso de PHP en Udemy.
+Anexo la DB (examen.sql) para su testeo.
+Gracias ñ.ñ
